@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there, I'm Dom Hayes!</h3>
+
+💬 I'm based in the UK interested in all things data, Arsenal and lawn bowls of all things.
+
+🔭 Currently working as a BI Analyst in the Finance industry for a merchent bank
+
+🌱 Currently studying Software Development with HyperionDev
+
+
 
 <!--
 **dom-hayes/dom-hayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
