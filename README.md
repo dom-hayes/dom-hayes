@@ -1,10 +1,10 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there, I'm Dom Hayes!</h3>
 
-💬 I'm based in the UK interested in all things data, Arsenal and lawn bowls of all things.
+<h4 align="center">💬 I'm based in the Derbyshire, UK interested in all things data, Arsenal and lawn bowls</h4>
 
-🔭 Currently working as a BI Analyst in the Finance industry for a merchent bank
+<h4 align="center">🔭 Currently working as a BI Analyst in the Finance industry for a merchent bank</h4>
 
-🌱 Currently studying Software Development with HyperionDev
+<h4 align="center">🌱 Currently studying Software Development with HyperionDev</h4>
 
 
 
